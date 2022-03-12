@@ -1,0 +1,30 @@
+main{
+
+	width: 1290px;
+	margin:20px ;
+
+}
+
+main h1{
+	margin-bottom: 10px;
+}
+
+
+table.masterlist{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table.masterlist th {
+	background: #aaa;
+}
+
+table.masterlist th, table.masterlist td{
+	padding :20px;
+	border-bottom: 1px solid #aaa;
+}
+
+.appname{
+	font-size: 50px;
+	text-align: center;
+	color:blue;

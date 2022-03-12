@@ -1,0 +1,12 @@
+create database Student_Reg;
+
+create table Register(
+Id varchar(10) not null,
+Name varchar(30) not null,
+Date_of_birth date,
+Age char(3) not null,
+Contact_No char(10) not null,
+Address varchar(30) not nuul,
+Religion varchar(20) not null,
+Person_Image varchar(255),
+primary key(Id));
